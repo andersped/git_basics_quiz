@@ -2,20 +2,19 @@
 
 ###What is your name?
 
-Your answer goes here
+J. Anders Pederson
 
 ###What is your favorite color?
 
-Your answer goes here
+Blue
 
 ###Cats or Dogs?
 
-Your answer goes here
+I prefer Dogs but cats can be okay sometimes. 
 
 ###What would constitute a “perfect” day for you?
 
-Your answer goes here
-
+A delicious glass of wine with a beautiful woman on a warm day overlooking an ocean while watching a file breathing unicorn. 
 ###Given the choice of anyone in the world, whom would you want as a dinner guest?
 
-Your answer goes here
+Sir Richard Branson. 
